@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const FilterForm = require('./filter-form-fixture.jsx');
 const Lab = require('lab');

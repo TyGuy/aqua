@@ -1,4 +1,3 @@
-'use strict';
 const Lab = require('lab');
 const Jsdom = require('jsdom');
 const ReturnUrlActions = require('../../../client/actions/return-url');

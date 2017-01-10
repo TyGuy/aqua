@@ -1,4 +1,3 @@
-'use strict';
 const Constants = require('../../../../../../client/pages/admin/users/search/constants');
 const Lab = require('lab');
 const Proxyquire = require('proxyquire');

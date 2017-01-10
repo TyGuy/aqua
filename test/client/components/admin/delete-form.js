@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const Form = require('../../../../client/components/admin/delete-form.jsx');
 const Lab = require('lab');

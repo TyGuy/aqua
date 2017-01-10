@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const CreateMemoryHistory = require('history/lib/createMemoryHistory');
 const Lab = require('lab');

@@ -1,4 +1,3 @@
-'use strict';
 const LinkState = require('../../helpers/link-state');
 const ObjectAssign = require('object-assign');
 const React = require('react');

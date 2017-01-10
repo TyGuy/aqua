@@ -1,4 +1,3 @@
-'use strict';
 const AboutPlugin = require('../../../server/web/about/index');
 const Code = require('code');
 const Config = require('../../../config');

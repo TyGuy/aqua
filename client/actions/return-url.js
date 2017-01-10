@@ -1,7 +1,4 @@
 /* global window */
-'use strict';
-
-
 class Actions {
     static saveReturnUrl() {
 

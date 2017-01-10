@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const Lab = require('lab');
 const NoteEntry = require('../../../server/models/note-entry');

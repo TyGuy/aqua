@@ -1,4 +1,3 @@
-'use strict';
 const Async = require('async');
 const Code = require('code');
 const Config = require('../../../config');

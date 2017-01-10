@@ -1,4 +1,3 @@
-'use strict';
 
 
 const parseReason = function (message) {

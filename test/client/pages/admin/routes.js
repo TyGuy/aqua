@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const Lab = require('lab');
 const Routes = require('../../../../client/pages/admin/routes.jsx');

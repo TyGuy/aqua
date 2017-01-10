@@ -1,4 +1,3 @@
-'use strict';
 const Layout = require('../layouts/default.jsx');
 const React = require('react');
 

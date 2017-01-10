@@ -1,4 +1,3 @@
-'use strict';
 const Forgot = require('./forgot/index.jsx');
 const Home = require('./home/index.jsx');
 const Logout = require('./logout/index.jsx');

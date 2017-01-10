@@ -1,4 +1,3 @@
-'use strict';
 const Jsdom = require('jsdom');
 
 

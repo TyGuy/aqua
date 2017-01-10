@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const Footer = require('../../../../client/pages/account/footer.jsx');
 const Lab = require('lab');

@@ -1,4 +1,3 @@
-'use strict';
 const Gulp = require('gulp');
 const Del = require('del');
 

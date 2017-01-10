@@ -1,4 +1,3 @@
-'use strict';
 const Gulp = require('gulp');
 const Gutil = require('gulp-util');
 const Webpack = require('webpack');

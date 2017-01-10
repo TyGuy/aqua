@@ -1,4 +1,3 @@
-'use strict';
 const BabelRegister = require('babel-core/register');
 const Glue = require('glue');
 const Manifest = require('./manifest');

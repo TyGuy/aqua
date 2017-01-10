@@ -1,4 +1,3 @@
-'use strict';
 const App = require('./app.jsx');
 const Home = require('./home.jsx');
 const NotFound = require('./not-found.jsx');

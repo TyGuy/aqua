@@ -1,4 +1,3 @@
-'use strict';
 const Actions = require('./actions');
 const Alert = require('../../../../components/alert.jsx');
 const ControlGroup = require('../../../../components/form/control-group.jsx');

@@ -1,4 +1,3 @@
-'use strict';
 const Async = require('async');
 const MongoModels = require('mongo-models');
 const Mongodb = require('mongodb');

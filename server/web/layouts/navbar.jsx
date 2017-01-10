@@ -1,4 +1,3 @@
-'use strict';
 const ClassNames = require('classnames');
 const React = require('react');
 

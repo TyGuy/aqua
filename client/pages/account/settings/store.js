@@ -1,4 +1,3 @@
-'use strict';
 const Details = require('./reducers/details');
 const Password = require('./reducers/password');
 const Redux = require('redux');

@@ -1,4 +1,3 @@
-'use strict';
 const Async = require('async');
 const AuthPlugin = require('../auth');
 const Boom = require('boom');

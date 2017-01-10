@@ -1,4 +1,3 @@
-'use strict';
 const MongoModels = require('mongo-models');
 
 

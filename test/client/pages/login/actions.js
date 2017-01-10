@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const FluxConstant = require('flux-constant');
 const Lab = require('lab');

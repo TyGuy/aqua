@@ -1,5 +1,4 @@
 /* global window */
-'use strict';
 const Form = require('./form.jsx');
 const React = require('react');
 const ReactDOM = require('react-dom');

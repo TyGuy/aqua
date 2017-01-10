@@ -1,5 +1,4 @@
 /* global window */
-'use strict';
 const ApiActions = require('../../../../actions/api');
 const Constants = require('./constants');
 const ReactRouter = require('react-router');

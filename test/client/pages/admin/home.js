@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const Component = require('../../../../client/pages/admin/home.jsx');
 const Lab = require('lab');

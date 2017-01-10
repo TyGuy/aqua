@@ -1,4 +1,3 @@
-'use strict';
 const Account = require('./account');
 const Admin = require('./admin');
 const Async = require('async');

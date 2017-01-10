@@ -1,4 +1,3 @@
-'use strict';
 const App = require('../../../../client/pages/signup/index.jsx');
 const Code = require('code');
 const Lab = require('lab');

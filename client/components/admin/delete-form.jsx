@@ -1,5 +1,4 @@
 /* global window */
-'use strict';
 const Alert = require('../alert.jsx');
 const Button = require('../form/button.jsx');
 const React = require('react');

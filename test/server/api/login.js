@@ -1,4 +1,3 @@
-'use strict';
 const AuthAttempt = require('../../../server/models/auth-attempt');
 const AuthPlugin = require('../../../server/auth');
 const Bcrypt = require('bcrypt');

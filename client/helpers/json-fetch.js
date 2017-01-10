@@ -1,5 +1,4 @@
 /* global window, document */
-'use strict';
 const Cookie = require('cookie');
 const Qs = require('qs');
 const ReturnUrlActions = require('../actions/return-url');

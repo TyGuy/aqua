@@ -1,4 +1,3 @@
-'use strict';
 const ControlGroup = require('../../../../components/form/control-group.jsx');
 const React = require('react');
 const ReactRouter = require('react-router');

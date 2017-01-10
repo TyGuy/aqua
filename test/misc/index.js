@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const Composer = require('../../index');
 const Lab = require('lab');

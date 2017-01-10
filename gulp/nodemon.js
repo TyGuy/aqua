@@ -1,4 +1,3 @@
-'use strict';
 const Gulp = require('gulp');
 const Nodemon = require('gulp-nodemon');
 

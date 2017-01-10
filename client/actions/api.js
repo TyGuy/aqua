@@ -1,4 +1,3 @@
-'use strict';
 const JsonFetch = require('../helpers/json-fetch');
 
 

@@ -1,4 +1,3 @@
-'use strict';
 const Path = require('path');
 const Gulp = require('gulp');
 const Newer = require('gulp-newer');

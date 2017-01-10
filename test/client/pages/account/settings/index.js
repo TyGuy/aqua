@@ -1,4 +1,3 @@
-'use strict';
 const Lab = require('lab');
 const Proxyquire = require('proxyquire');
 const React = require('react');

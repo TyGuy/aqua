@@ -1,4 +1,3 @@
-'use strict';
 const Code = require('code');
 const Constants = require('../../../../client/pages/contact/constants');
 const Lab = require('lab');

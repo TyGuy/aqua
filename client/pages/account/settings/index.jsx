@@ -1,4 +1,3 @@
-'use strict';
 const DetailsForm = require('./details-form.jsx');
 const Actions = require('./actions');
 const PasswordForm = require('./password-form.jsx');

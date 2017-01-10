@@ -1,4 +1,3 @@
-'use strict';
 const Moment = require('moment');
 const React = require('react');
 

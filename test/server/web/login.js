@@ -1,4 +1,3 @@
-'use strict';
 const AuthPlugin = require('../../../server/auth');
 const AuthenticatedAccount = require('../fixtures/credentials-account');
 const AuthenticatedAdmin = require('../fixtures/credentials-admin');

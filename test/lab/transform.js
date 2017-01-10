@@ -1,4 +1,3 @@
-'use strict';
 const Babel = require('babel-core');
 
 

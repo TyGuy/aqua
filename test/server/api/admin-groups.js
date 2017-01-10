@@ -1,4 +1,3 @@
-'use strict';
 const AdminGroupsPlugin = require('../../../server/api/admin-groups');
 const AuthPlugin = require('../../../server/auth');
 const AuthenticatedUser = require('../fixtures/credentials-admin');

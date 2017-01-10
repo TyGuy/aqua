@@ -1,4 +1,3 @@
-'use strict';
 const Delete = require('./reducers/delete');
 const Details = require('./reducers/details');
 const Note = require('./reducers/note');

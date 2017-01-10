@@ -1,4 +1,3 @@
-'use strict';
 const Actions = require('./actions');
 const CreateNewForm = require('./create-new-form.jsx');
 const FilterForm = require('./filter-form.jsx');

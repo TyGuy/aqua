@@ -1,4 +1,3 @@
-'use strict';
 const Gulp = require('gulp');
 const Path = require('path');
 const Merge = require('merge-stream');
